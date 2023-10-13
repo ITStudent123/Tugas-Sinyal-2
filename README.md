@@ -1,4 +1,4 @@
 # Tugas-Sinyal-2
 
-[Script-code](konvolusi sinyal.py)
-![FFT 1-D](https://github.com/ITStudent123/Tugas-Sinyal-2/assets/90102620/45085ecd-065d-402c-86dc-04226bc00ddf)
+![Screenshot (176)](https://github.com/ITStudent123/Tugas-Sinyal-2/assets/90102620/11562df0-d637-4438-b385-8c3a4ede083e)
+
